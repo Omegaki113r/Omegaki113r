@@ -1,5 +1,3 @@
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <div align="center">
   <span>
     <h1>Hello, I'm 0m3g4ki113r,</h1>
