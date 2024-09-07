@@ -30,6 +30,9 @@
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Omegaki113r&show_icons=true&theme=gruvbox&hide_border=true">
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omegaki113r&theme=gruvbox&hide_border=true">
         </a>
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Omegaki113r&theme=dark" alt="GitHub Streak" />
+        </a>
       </p>
     </details>
   </div>
