@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <span>
 <h4 style="text-align: left; margin-bottom: 12px;">
   I'm a developer specializing in <strong>embedded systems</strong>, <strong>desktop applications</strong>, 
