@@ -1,13 +1,13 @@
 <div align="center">
   <span>
-I'm a developer with a strong background in:
+<h4>I'm a developer specializing in embedded systems, desktop applications, graphics programming, and mobile development.</h4>
 
-- **Embedded Systems**: ESP32, STM32, nRF
-- **Desktop Applications**: WxWidgets
-- **Graphics Programming**: OpenGL (proficient), Metal & Vulkan (beginner)
-- **Mobile Development**: Native Android/iOS and Flutter
-
-I work on cross-platform, performance-critical applications and enjoy bridging hardware and software.
+<ul>
+  <li><strong>Embedded Systems:</strong> Expert in ESP32, STM32, and nRF platforms</li>
+  <li><strong>Desktop Applications:</strong> Proficient with WxWidgets for cross-platform GUI development</li>
+  <li><strong>Graphics Programming:</strong> Skilled in OpenGL, with beginner experience in Metal and Vulkan</li>
+  <li><strong>Mobile Development:</strong> Capable of building native Android/iOS apps as well as cross-platform apps using Flutter</li>
+</ul>
   </span>
 </div>
 
