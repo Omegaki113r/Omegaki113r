@@ -1,7 +1,13 @@
 <div align="center">
   <span>
-    <h1>Hello, I'm 0m3g4ki113r,</h1>
-    <h4>I'm a freelance developer.</h4>
+I'm a developer with a strong background in:
+
+- **Embedded Systems**: ESP32, STM32, nRF
+- **Desktop Applications**: WxWidgets
+- **Graphics Programming**: OpenGL (proficient), Metal & Vulkan (beginner)
+- **Mobile Development**: Native Android/iOS and Flutter
+
+I work on cross-platform, performance-critical applications and enjoy bridging hardware and software.
   </span>
 </div>
 
