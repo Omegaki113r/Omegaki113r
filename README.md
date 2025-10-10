@@ -14,6 +14,8 @@
   </span>
 </div>
 
+<hr style="height: 5px; background-color: #ccc; border: none; margin: 20px 0;">
+
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <div align="center">
