@@ -1,13 +1,15 @@
 <div align="center">
   <span>
-<h4 style="margin-bottom: 12px;">I'm a developer specializing in <strong>embedded systems</strong>, <strong>desktop applications</strong>, <strong>graphics programming</strong>, and <strong>mobile development</strong>.</h4>
+<h4 style="text-align: left; margin-bottom: 12px;">
+  I'm a developer specializing in <strong>embedded systems</strong>, <strong>desktop applications</strong>, 
+  <strong>graphics programming</strong>, and <strong>mobile development</strong>.
+</h4>
 
-<div style="padding-left: 10px; border-left: 3px solid #ccc;">
-  <p><strong>Embedded Systems:</strong> Expert in ESP32, STM32, and nRF platforms</p>
-  <p><strong>Desktop Applications:</strong> Proficient with WxWidgets for cross-platform GUI development</p>
-  <p><strong>Graphics Programming:</strong> Skilled in OpenGL, with beginner experience in Metal and Vulkan</p>
-  <p><strong>Mobile Development:</strong> Builds native Android/iOS apps and cross-platform apps using Flutter</p>
-</div>
+<p style="text-align: left;"><strong>Embedded Systems:</strong> Expert in ESP32, STM32, and nRF platforms</p>
+<p style="text-align: left;"><strong>Desktop Applications:</strong> Proficient with WxWidgets for cross-platform GUI development</p>
+<p style="text-align: left;"><strong>Graphics Programming:</strong> Skilled in OpenGL, with beginner experience in Metal and Vulkan</p>
+<p style="text-align: left;"><strong>Mobile Development:</strong> Builds native Android/iOS apps and cross-platform apps using Flutter</p>
+
 
   </span>
 </div>
